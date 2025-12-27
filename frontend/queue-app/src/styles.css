@@ -1,0 +1,7 @@
+
+.header{background:#2ecc71;height:40px}
+.container{display:flex;justify-content:center;margin-top:60px}
+.card{background:#fff;padding:40px;width:360px;text-align:center}
+.queue{font-size:64px;font-weight:bold;margin:20px}
+button{background:#4a74c9;color:#fff;border:none;padding:10px 20px;margin:5px}
+.gray{background:#bbb}
